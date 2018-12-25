@@ -8,5 +8,6 @@ The “unpickle” Python module is used to convert the byte stream of data into an 
 
 Two different models are used to classify the images.
 
-1] Using an MLP
-2] Using a CNN [best for classifying images]
+1] Using an MLP -> 0.5896 accuracy
+
+2] Using a CNN [best for classifying images] -> 0.88 accuracy
