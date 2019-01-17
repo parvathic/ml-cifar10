@@ -1,4 +1,4 @@
-# CLassification of Cifar-10 DATASET using a Multi-Layer Perceptron model and a Convolutional Neural Network model.
+# Classification of Cifar-10 DATASET.
 
 The data set used for this project is CIFAR-10.  It is a subset of a larger set of 80 million tiny images. For the purpose of this project, we’re using a 10 classifier dataset, which is split into 50’000 training images and 10’000 test images. It is split into 5 training batches and 1 test batch containing 1000 images randomly selected from each class
 
